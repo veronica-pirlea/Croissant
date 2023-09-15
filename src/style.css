@@ -13,6 +13,10 @@ a {
   text-decoration: underline;
 }
 
+.mail {
+  color: blue;
+}
+
 img {
   display: block;
   margin: 0 auto;
